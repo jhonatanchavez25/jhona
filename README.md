@@ -8,7 +8,6 @@ Este proyecto es una interfaz gráfica sencilla hecha en Python con Tkinter. Per
 
 ## Bibliotecas utilizadas
 
-- Python 3
 - Tkinter
 - PIL (Pillow)
 - subprocess
